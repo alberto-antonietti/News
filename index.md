@@ -1,7 +1,3 @@
-## Welcome
-
-Here you can find the updated news from Alberto.
-
 # Seminar on Bayesian Statistics by Marianne Corvellec, Ph.D.
 
 ** 22 October 2018 **
