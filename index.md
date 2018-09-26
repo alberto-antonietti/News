@@ -14,13 +14,13 @@ This seminar is meant as a small contribution to improve statistical literacy in
 
 ### References
 
-[#1](https://www.mdpi.com/2227-7102/7/1/3)
+[https://www.mdpi.com/2227-7102/7/1/3](https://www.mdpi.com/2227-7102/7/1/3)
 
-[#2](https://pystan.readthedocs.io/en/latest/)
+[https://pystan.readthedocs.io/en/latest/](https://pystan.readthedocs.io/en/latest/)
 
-[#3](http://conference.scipy.org/proceedings/scipy2018/vamvourellis_corvellec.html)
+[http://conference.scipy.org/proceedings/scipy2018/vamvourellis_corvellec.html](http://conference.scipy.org/proceedings/scipy2018/vamvourellis_corvellec.html)
 
-[#4](http://mc-stan.org/users/documentation/case-studies/dina_independent.html)
+[http://mc-stan.org/users/documentation/case-studies/dina_independent.html](http://mc-stan.org/users/documentation/case-studies/dina_independent.html)
 
 
 ### Speaker Bio
