@@ -2,7 +2,7 @@
 
 **22 October 2018**
 
-**11:30 - 12:30**
+**12:30 - 13:30**
 
 **Politecnico di Milano - DEIB Conference room - Building 20**
 
